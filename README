@@ -1,0 +1,2 @@
+para subir las modificaciones de un proyecto teclear en la terminal:
+git push origin master --force
